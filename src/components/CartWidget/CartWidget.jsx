@@ -8,7 +8,7 @@ const StyledBadge = styled(Badge)(() => ({
     right: -3,
     top: 20,
     padding: '0 4px',
-    'font-size' : '8px'
+    'fontSize' : '8px'
   },
 }));
 

@@ -1,0 +1,8 @@
+.item-detail__container {
+    display: flex;
+    gap: 50px;
+}
+
+.item-detail__container > div {
+    width: 50%;
+}
